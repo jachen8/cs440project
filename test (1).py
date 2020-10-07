@@ -3,7 +3,7 @@
 """
 Created on Fri May  8 10:18:32 2020
 
-@author: Shihab
+@author: Shihab, Jachen
 """
 
 import gym
